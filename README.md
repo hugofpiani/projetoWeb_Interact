@@ -1,4 +1,4 @@
-<h1> Este repositório contém o projeto de criação de um site para a ONG Interact.<\h1> <br>
+<h1> Este repositório contém o projeto de criação de um site para a ONG Interact. </h1> <br>
 A Interact é uma organização sem fins lucrativos comprometida em promover a inclusão social e o desenvolvimento comunitário através de projetos educacionais, culturais e ambientais. <br><br>
 
 Neste projeto, buscamos desenvolver um site moderno, atrativo e funcional para a Interact. O site será projetado para oferecer informações sobre a ONG, seus objetivos, programas e iniciativas, além de fornecer recursos para voluntários, doadores e pessoas interessadas em se envolver com a organização.<br><br>
