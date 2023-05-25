@@ -111,6 +111,38 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 
+.containerValores{
+    background-image: url(imagens/fundoPessoas.avif);
+    background-repeat: no-repeat;
+    background-position: center cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.centroValores{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ffffff ;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-top: 6%;
+    margin-bottom: 8%;
+    padding: 10px 10px;
+    font-size: 17px;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blocosValores{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+    align-items: center;
+}
 
 /*------------------------ Sessão do Rodapé ------------------------*/
 
