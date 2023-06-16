@@ -95,6 +95,17 @@ body{
     margin-bottom: 6%;
 }
 
+.texto_total3 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 10.5%;
+    margin-bottom: 6%;
+}
+
 .texto_apresentacao{
     width: 615px;
     display: flex;
@@ -105,11 +116,25 @@ body{
 .texto_titulo {
     font-size: 45px;
     font-family: 'Open Sans', sans-serif;
+    /* margin-right: 10%; */
+}
+
+.texto_titulo2 {
+    font-size: 45px;
+    font-family: 'Open Sans', sans-serif;
+    /* margin-left: 10%; */
 }
 
 .paragrafo{
     font-size: 24px;
     font-family: 'Open Sans', sans-serif;
+    /* margin-right: 10%; */
+}
+
+.paragrafo2{
+    font-size: 24px;
+    font-family: 'Open Sans', sans-serif;
+    /* margin-left: 10%; */
 }
 
 .containerValores{
@@ -164,13 +189,27 @@ body{
 .rodape{
     background-color: #005daa;
     width: 100%;
-    height: 100%;
     box-sizing: border-box;
 
     display: flex;
     justify-content: space-evenly;
     align-items:center;
 }
+
+/*------------------------ Rodapé para pagina com menos conteudeo ------------------------*/
+.rodapepoucoconteudo{
+    background-color: #005daa;
+    width: 100%;
+    box-sizing: border-box;
+    position:absolute;
+    bottom: 0;
+    left: 0;
+
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+}
+/*----------------------------------------------------------------------------------------*/
 
 .texto_redes{
     display: flex;
