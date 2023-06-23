@@ -128,13 +128,23 @@ body{
 .paragrafo{
     font-size: 24px;
     font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+
+    
     /* margin-right: 10%; */
 }
 
 .paragrafo2{
-    font-size: 24px;
+    font-size: 28px;
     font-family: 'Open Sans', sans-serif;
+    text-align: justify;
+
     /* margin-left: 10%; */
+}
+
+.linhaReduzida{
+    font-size: 16px;
+    line-height: 0.2;
 }
 
 .containerValores{
@@ -201,9 +211,10 @@ body{
     background-color: #005daa;
     width: 100%;
     box-sizing: border-box;
-    position:absolute;
+    position:static;
     bottom: 0;
     left: 0;
+    bottom: 0vh;
 
     display: flex;
     justify-content: space-evenly;
@@ -256,5 +267,11 @@ body{
 }
 
 .imagemlogo{
+    margin-bottom: 1.5%;
+    width: 250px; 
+    height: 130px;
+}
+
+.imagemfooter{
     margin-right: 3%;
 }
